@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Menu Lateral</string>
+    <string name="Titulo">Motocicletas Correcaminos</string>
+    <string name="correo">Ingresa correo</string>
+    <string name="contrasena">Ingresa Contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nosostros">En motocicletas correcaminos sabemos lo importante que es contar con todo lo necesario para
+        disfrutar la pasion del motoclismo al maximo.\n\nMotocicletas correcaminos surge precisamente de esa pasion por
+        las motocicletas.
+    </string>
+    <string name="detalle">Detalles de Accesorio</string>
+    <string name="descripcion">Descripcion del producto:</string>
+    <string name="otro">Opcion Desplegable</string>
+    <string name="content">Content description</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Motocicletas Correcaminos</string>
+    <string name="nav_header_subtitle">motocicletas@motos.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Accesorios</string>
+    <string name="menu_slideshow">Nosotros</string>
+</resources>
